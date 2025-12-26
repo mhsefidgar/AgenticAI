@@ -24,6 +24,18 @@ This project pushed me to think deeply about State Management in AI and how we c
 The future of content creation isn't just AI tools—it's AI Systems.  
 See the sample video generated in my YouTube channel.
 
+## The Flowchart used in this project is as bellow:
+
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/mhsefidgar/AgenticAI/main/AgenticAIYouTubeAutomation/Assets/Untitled%20diagram-2025-12-26-184717.png"
+    alt="Agentic AI Diagram"
+    width="500"
+  >
+</div>
+
+
 ## Ethereum Price analysis
 <p>
   <a href="https://www.youtube.com/watch?v=xCzecase068">
